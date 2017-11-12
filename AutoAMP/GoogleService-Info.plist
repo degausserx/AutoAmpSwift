@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>818568312565-b7gdrv7ul6ha4cmfkvjdjvfv1fklurji.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.818568312565-b7gdrv7ul6ha4cmfkvjdjvfv1fklurji</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdhCuxbbTe5eE18S2reIIijnID6yBKO24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>818568312565</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>businesstraining.AutoAMP</string>
+	<key>PROJECT_ID</key>
+	<string>autoampios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>autoampios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:818568312565:ios:e5ea9dbe0c8b3d0f</string>
+	<key>DATABASE_URL</key>
+	<string>https://autoampios.firebaseio.com</string>
+</dict>
+</plist>
